@@ -1,8 +1,10 @@
-# React + Vite
+# Word Dash
+A simple react app that challenges user's typing speed
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Functionalities
+1. 10 Second timer is the duration the player has to type out the given word
+2. Wether they type the word fast enough or not they will be given a a new word right away
+3. Words are selected randomly from an array
+4. The timer restarts each time 
+5. A point system to keep track of how many words they typed fast enough or not
+6. The game ends if the player gives up
