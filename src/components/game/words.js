@@ -1,5 +1,5 @@
 export const words = [
-  "apple", "banana", "cherry", "dragon", "eagle", "forest", "garden", "hockey", 
+  "word", "banana", "cherry", "dragon", "eagle", "forest", "garden", "hockey", 
   "island", "jungle", "kitten", "ladder", "market", "nature", "orange", "planet", 
   "quartz", "rocket", "system", "tunnel", "utopia", "violet", "walnut", "xenons", 
   "yellow", "zombie", "anchor", "beacon", "canvas", "dancer", "effort", "fabric", 
